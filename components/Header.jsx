@@ -18,7 +18,7 @@ const Header = () => {
           </li>
           <li>
             <Link
-              href="https://www.linkedin.com/in/deepak2004/"
+              href="https://www.linkedin.com/in/syedmohibnawaz1/"
               className="hover:text-[#fff]"
             >
               Contact Us

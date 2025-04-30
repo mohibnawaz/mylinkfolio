@@ -18,19 +18,19 @@ const Footer = () => {
         <Headline heading={"Resume Lab"} text={"Your ATS Friendly Resume"} />
       </div>
       <div className="w-full lg:w-1/5 mt-4 flex flex-row items-center justify-around">
-        <Link href="https://www.instagram.com/iqlipse_22/" className="w-8">
+        <Link href="https://www.instagram.com/_.mohib1/" className="w-8">
           <FontAwesomeIcon icon={faInstagram} className="icon" />
         </Link>
-        <Link href="https://github.com/iQliPsE-22/resumelab" className="w-8">
+        <Link href="https://github.com/mohibnawaz" className="w-8">
           <FontAwesomeIcon icon={faGithub} className="icon" />
         </Link>
-        <Link href="https://www.linkedin.com/in/deepak2004/" className="w-8">
+        <Link href="https://www.linkedin.com/in/syedmohibnawaz1/" className="w-8">
           <FontAwesomeIcon icon={faLinkedin} className="icon" />
         </Link>
       </div>
       <div className="itim w-full lg:w-1/5 text-center lg:text-left">
         <h2 className="text-2xl mb-2">Contact Us</h2>
-        <p className="text-sm">deepaklg02@gmail.com</p>
+        <p className="text-sm">nawazsyed8402@gmail.com</p>
       </div>
     </div>
   );
